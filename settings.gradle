@@ -1,0 +1,2 @@
+include 'desktop', 'android', 'core', ':opencv'
+project(':opencv').projectDir = new File('libraries/opencv')
